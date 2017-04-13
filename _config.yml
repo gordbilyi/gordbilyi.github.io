@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               10 Bn seconds
+tagline:             'Evrethying I find interesting about Android I post here.'
+description:         
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Gord Bilyi
+  url:               https://www.linkedin.com/in/gordbilyi/
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]

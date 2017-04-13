@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>10 Bn seconds</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-04-12T22:37:33-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Gord Bilyi</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title><a href="http://www.droidcon-boston.com" target="_blank">Droidcon @ Boston</a></title>
+   <link href="http://localhost:4000/2017/04/12/droidconbos/"/>
+   <updated>2017-04-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2017/04/12/droidconbos</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  I've just returned from &lt;a href=&quot;https://twitter.com/search?q=%23droidconbos&quot; target=&quot;_blank&quot;&gt;#droidconbos&lt;/a&gt; and here are the slides I could find
+&lt;/div&gt;
+
+&lt;h2 id=&quot;slides&quot;&gt;Slides&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://buff.ly/2piJImO&quot; target=&quot;_blank&quot;&gt;Do no harm&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/u3m6YyUZiU&quot; target=&quot;_blank&quot;&gt;How to be an android expert&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/5G88h07Yob&quot; target=&quot;_blank&quot;&gt;Through the looking-glass eyes of an Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/dlemures/toothpick-a-fresh-approach-to-di&quot; target=&quot;_blank&quot;&gt;Toothpick: a fresh approach to Dependency Injection on Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/QDOVCXpvYK&quot; target=&quot;_blank&quot;&gt;Becoming a Better Battery Citizen &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/q0mNl98Wtg&quot; target=&quot;_blank&quot;&gt;‘Rxify’— a simple spell for complex RxJava operators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/queencodemonkey/droidcon-boston-2017-cool-constraintlayout&quot; target=&quot;_blank&quot;&gt;Cool ConstraintLayout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/QsTBSmlT3p&quot; target=&quot;_blank&quot;&gt;Bonjour, Monde: Optimizing Localization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/BjO72dmzLY&quot; target=&quot;_blank&quot;&gt;Android Auto - Drive your car, use your phone and don’t hurt anybody&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Vwr7YCqd3qppn4DD6ufNuOvvAd1pSsJ3CLiDgvXT_HY/present?slide=id.gc6f980f91_0_0&quot; target=&quot;_blank&quot;&gt;“It’s an Inside Job” - Building Debug Features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.co/wio0t32MGX&quot; target=&quot;_blank&quot;&gt;Kotlin: Uncovered &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
